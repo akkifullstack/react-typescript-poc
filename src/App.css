@@ -22,6 +22,11 @@
 .App-link {
   color: #61dafb;
 }
+.pokemon__name{
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
 
 @keyframes App-logo-spin {
   from {
